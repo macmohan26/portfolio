@@ -2,9 +2,9 @@
   "name": "Adhoc Portfolio",
   "homepage": "https://github.com/developertenzin/adhoc-portfolio",
   "authors": [
-    "developertenzin <tenzinphuljung7@gmail.com>"
+    "Man Mohan Rathore <rathoremm79@gmail.com>"
   ],
-  "description": "This is a portfolio built just for Chicago Digital ;)",
+  "description": "This is a portfolio built just for Man Mohan Rathore;)",
   "main": "app.js",
   "license": "MIT",
   "ignore": [
